@@ -6,6 +6,7 @@ import About from "./About";
 import "./pages/head.css";
 
 import './App.css'
+import { HashRouter } from "react-router-dom";
 import { NavLink, Route, Routes } from "react-router-dom";
 import Login from "./pages/Login";
 import Register from "./pages/Register";
